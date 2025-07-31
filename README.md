@@ -63,5 +63,5 @@ A curated list of iOS and tvOS applications I’ve contributed to or led, with l
 
 ## 📫 Contact
 **Name**: Binil V  
-**Email**: binilvvtl@outlook.com
+**Email**: binilvvtl@outlook.com   
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/iosdeveloperbinil/)
